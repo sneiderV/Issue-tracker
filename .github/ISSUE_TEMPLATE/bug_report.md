@@ -7,27 +7,25 @@ assignees: ''
 
 ---
 
-## Describe the bug
-A clear and concise description of what the bug is.
+## Comportamiento esperado
+Descripcion del comportamiento esperado
 
-## To Reproduce
-Steps to reproduce the behavior:
+## Comportamiento actual
+Descripcion del comportamiento actual
+
+## Pasos a reproducir
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-## Expected behavior
-A clear and concise description of what you expected to happen.
+## Evidencias
+links de las evidencias
 
-## Screenshots
-If applicable, add screenshots to help explain your problem.
+## Contexto (Ambiente de ejecución):
+- App version: Ghost *3.41.1*
+- OS: macOS Monterey 12.6
+- Browser: Chrome 111.0.5563.146
 
-## Environment (please complete the following information):
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-### Additional context
-Add any other context about the problem here.
+## Informacion adicional
+...
